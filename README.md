@@ -5,8 +5,11 @@ A basic Clarity smart contract that demonstrates fundamental blockchain programm
 ## Overview
 
 This project contains a simple counter contract written in Clarity, the smart contract language for the Stacks blockchain. The contract allows users to increment, decrement, reset, and query a counter value stored on the blockchain.
+Contract Identifier: ST2TY0M0WF0EXM2J5TYCRSEEZGPWYYC38DHV67F8F.counter
 
 ## Contract Features
+<img width="1707" height="762" alt="image" src="https://github.com/user-attachments/assets/fd8030b2-a431-40ee-ac97-e14408f34efb" />
+
 
 The counter contract provides the following functions:
 
